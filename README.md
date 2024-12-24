@@ -13,7 +13,8 @@ Follow these steps to set up and run the project successfully:
    ```bash
    python -m venv .venv
    ```
-   Activate the virtual environment:
+
+2. Activate the virtual environment:
 
     ### For windows 
 
