@@ -2,7 +2,6 @@
 
 Follow these steps to set up and run the project successfully:
 
-Follow these steps to set up a virtual environment and run the project:
 
 ## 1. Set Up the Virtual Environment
 
