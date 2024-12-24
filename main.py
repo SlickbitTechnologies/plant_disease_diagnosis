@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-st.header("Plant Disease Diagnosis with Gemini API")
+st.header("Plant Disease Diagnosis")
 
 uploaded_file = st.file_uploader("Upload image to find disease of plant", type=["jpg", "jpeg", "png","webp"])
 
